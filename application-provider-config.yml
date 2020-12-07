@@ -1,0 +1,6 @@
+# 添加一个标识
+flag: xxx
+
+# 配置dev环境
+server:
+  port: 8084
