@@ -1,0 +1,6 @@
+# 添加一个标识
+suffix: one
+
+# 配置dev环境
+server:
+  port: 7070
